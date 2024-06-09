@@ -1,0 +1,137 @@
+
+  Mrv2304 09122316482D          
+
+ 15 17  0  0  0  0            999 V2000
+   -0.1485   -1.5745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1485   -0.7495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5188   -0.2646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2639    0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8160    1.1330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6229    0.9614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1750    1.5745    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8778    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3258   -0.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5610    0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8160   -0.2646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6229   -0.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1750    0.1768    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9200    0.9614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1130    1.1330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB18118
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C2=C(C=C(F)C=C2)C2=C1C=NC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9FN2/c1-15-11-3-2-8(13)6-10(11)9-4-5-14-7-12(9)15/h2-7H,1H3
+
+> <INCHI_KEY>
+ZKCQFUOLWYLCFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9FN2
+
+> <MOLECULAR_WEIGHT>
+200.216
+
+> <EXACT_MASS>
+200.074976461
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.99999607369932
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.229813280692603
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-fluoro-9-methyl-9H-pyrido[3,4-b]indole
+
+> <JCHEM_LOGP>
+2.2395912643333338
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.406014739586786
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.82
+
+> <JCHEM_REFRACTIVITY>
+56.42840000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-fluoro-9-methylpyrido[3,4-b]indole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB18118
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+6-fluoro-9-methyl-9H-pyrido(3,4-B)-indole
+
+> <SYNONYMS>
+6-fluoro-9-methyl-9H-pyrido[3,4-b]-indole
+
+$$$$
